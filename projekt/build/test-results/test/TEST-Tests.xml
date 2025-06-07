@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-13T12:41:41" hostname="LAPTOP-D85ST19U" time="0.024">
+  <properties/>
+  <testcase name="testHeal()" classname="Tests" time="0.017"/>
+  <testcase name="testKill()" classname="Tests" time="0.001"/>
+  <testcase name="testMove()" classname="Tests" time="0.003"/>
+  <system-out><![CDATA[false
+false
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
