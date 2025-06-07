@@ -1,0 +1,2 @@
+Zadanie to polegało na stworzeniu prostej symulacji płonącego lasu oraz przeprowadzenie badań.
+Na planszy NxN rozsiewane są drzewa i podpalane jest jedno z nich, następnie przy każdej iteracji podpaleniu ulegają wszyskie drzewa w bezpośrednim sąsiedztwie. 
